@@ -1,0 +1,16 @@
+﻿{
+  "name": "Simple Sunday School",
+  "short_name": "SSS App",
+  "description": "A simple check-in solution for Sunday School.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#3B82F6",
+  "icons": [
+    {
+      "src": "1000014652.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
